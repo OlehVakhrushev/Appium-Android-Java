@@ -1,0 +1,5 @@
+.idea/
+Appium-Android-Java.iml
+node_modules/
+package-lock.json
+target/
